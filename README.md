@@ -86,15 +86,3 @@ graph TD
 | ⚫ Gray | Priority 5 — Build last | User Account & Auth |
 
 ---
-
-## Team Responsibilities
-
-| Section | Feature | Responsible |
-|---------|---------|-------------|
-| Supplier Directory | Search & Filter, Profile Page, Preferred List | Dau Thuy Dung |
-| Quote Request | Send RFQ, Compare Quotes, RFQ Status | Dau Thuy Dung |
-| Order Management | Create PO, Order Dashboard, Status Updates | 黃晴 |
-| Delivery Tracking | Status View, Delay Notifications, Proof of Delivery | 黃晴 |
-| Document Vault | Upload, Expiry Alerts, Search | Dau Thuy Dung |
-| User Account | Login/Register, Profile, Role Management | 黃晴 |
-| Homepage | Landing Page Design | 黃晴 |
